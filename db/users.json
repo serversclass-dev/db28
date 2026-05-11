@@ -1,1 +1,21 @@
-{}
+{
+  "ffrrr08": {
+    "username": "ffrrr08",
+    "password": "fffrrr00088F$",
+    "student_type": "علمي",
+    "telegram_user_id": "5942238192",
+    "telegram_username": null,
+    "telegram_first_name": "٠",
+    "profile_photo_url": null,
+    "session_id": "a0bca084-efb0-4c02-bacd-d2b8dd61428a",
+    "created_at": "2026-05-10T18:01:41.965985",
+    "verified": true,
+    "last_login": "2026-05-10T18:01:46.376141",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "it"
+    ],
+    "server_num": 28
+  }
+}
