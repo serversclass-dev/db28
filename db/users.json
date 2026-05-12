@@ -7,14 +7,37 @@
     "telegram_username": null,
     "telegram_first_name": "٠",
     "profile_photo_url": null,
-    "session_id": "a0bca084-efb0-4c02-bacd-d2b8dd61428a",
+    "session_id": "e62179b0-54c2-402d-9fc3-0466a4758de6",
     "created_at": "2026-05-10T18:01:41.965985",
     "verified": true,
-    "last_login": "2026-05-10T18:01:46.376141",
+    "last_login": "2026-05-12T14:29:49.612264",
     "balance": 0,
     "purchased_subjects": [
       "islamic",
-      "it"
+      "it",
+      "statistics"
+    ],
+    "server_num": 28
+  },
+  "maryam9909": {
+    "username": "maryam9909",
+    "password": "M$xmxlxoxixu4848",
+    "student_type": "علمي",
+    "telegram_user_id": "1971401861",
+    "telegram_username": "marymomomom",
+    "telegram_first_name": "Lomp🎱🎓",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_77.jpg",
+    "session_id": "5df2da8d-e0c8-498b-b513-b2deb3c6c7fa",
+    "created_at": "2026-05-12T17:02:50.171844",
+    "verified": true,
+    "last_login": "2026-05-12T17:07:45.411303",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "linguistic_studies",
+      "statistics",
+      "chemistry",
+      "biology"
     ],
     "server_num": 28
   }
